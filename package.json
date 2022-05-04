@@ -1,0 +1,13 @@
+{
+  "name": "insta_fortnite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.9.1",
+    "cron": "^2.0.0",
+    "instagram-web-api": "^2.2.2",
+    "node-cron": "^3.0.0",
+    "tough-cookie-filestore2": "^1.0.0"
+  }
+}
